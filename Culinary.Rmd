@@ -1,0 +1,11 @@
+---
+title: "Chinese dishes"
+output: html_document
+---
+
+```{r, Chinese_dishes, echo=FALSE, message=FALSE, eval=TRUE, fig.retina = 1}
+require(knitr)
+Chinese_dishes <- list.files(path = './images/Chinese_dishes', pattern = ".jpg", full.names = TRUE)
+include_graphics(Chinese_dishes)
+
+```

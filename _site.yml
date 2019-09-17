@@ -1,0 +1,30 @@
+name: "Kai Tang"
+output_dir: "."
+navbar:
+  title: "Kai Tang"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: CV.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "CSG Members"
+      href: CSG_Members.html
+    - text: "Culinary sharing"
+      href: Culinary.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: CV.html
+    - icon: fa-weixin fa-lg
+      href: wechat.html
+    - icon: fa-github fa-lg
+      href: https://github.com/tangkai666
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/_TangKai_
+    - icon: fa-youtube-play fa-lg
+      href: https://www.youtube.com/channel/UCSyLqSX5LB4sXhfGRrBNkCg
+output:
+  html_document:
+    theme: flatly
+    css: style.css

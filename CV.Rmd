@@ -1,0 +1,49 @@
+---
+title: "Kai Tang 唐凯"
+output: html_document
+---
+    
+**Max Planck Institute for Chemistry**  
+**Multiphase Chemistry Department**  
+**Hahn-Meitner-Weg 1**  
+**Mainz, Germany, 55128**      
+
+***
+## Contact
+**Email: Kai.Tang@mpic.de  or  tangkai_lzu@outlook.com**  
+**Skype: tangkai_lzu@outlook.com**  
+**ResearchGate: https://www.researchgate.net/profile/Tang_Kai**    
+**ResearcherID: http://www.researcherid.com/rid/H-7251-2018 **  
+**ORCID: http://orcid.org/0000-0002-5402-0344 **  
+**Publons: https://publons.com/a/1457950 **  
+**GitHub: https://github.com/tangkai666 ** 
+   
+***
+## Eduction  
+* 2019.07 \- now   Ph.D. Candidate  Multiphase Chemistry Department, Max Planck Institute for Chemistry, Mainz, Germany
+* 2016.09 \- 2019.06   M.S.  College of Atmospheric Sciences, Lanzhou University, Lanzhou, China    
+* 2012.09 \- 2016.06   B.S.  College of Atmospheric Sciences, Lanzhou University, Lanzhou, China    
+
+***  
+## Training
+* 2018.09 \- 2019.02  A visiting student with the stipend of Max Planck Institute for Chemistry, Mainz, Germany  Adviser: Dr. Janine Fröhlich  
+* 2018.01 \- 2018.02  Short-term training on microbiological experiments in Kanazawa University, Japan  Adviser: Dr. Teruya Maki
+* 2017.12  Short-term training on bioinformatics in Chengdu Institute of Biology, Chinese Academy of Sciences  Adviser: Dr. Xiangzhen Li  
+* 2017.02 \- 2017.03  Short-term training on microbiological experiments in Kanazawa University, Japan  Adviser: Dr. Teruya Maki 
+* 2016.09 \- 2016.12  Short-term training in Institute of Microbiology, School of Life Sciences,Lanzhou University, China  Adviser: Professor Xiangkai Li  
+    
+***
+## Field Campaigns
+* 2016.03.23 \- 2016.05.22 The Dust-Bioaerosol Campaign in Eastern China (Erenhot, Zhangbei, Jinan).  
+* 2017.08.03 \- 2017.08.23 The Dust-Bioaerosol Campaign from the western to the eastern of Inner Mongolia, China.  
+* 2018.05.06 - 2018.06.01 The Dust-Bioaerosol Campaign at the base camp of the Mountain Everest and in Lhasa, China.  
+    
+***
+## Research Interests  
+**The effects of bioaerosols on the earth system, climate, life and public health.**  
+    
+***    
+## Publications  
+1. **Tang, K.**, Huang, Z., Huang, J., Maki, T., Zhang, S., Shimizu, A., Ma, X., Shi, J., Bi, J., Zhou, T., Wang, G., and Zhang, L.: Characterization of atmospheric bioaerosols along the transport pathway of Asian dust during the Dust-Bioaerosol 2016 Campaign, Atmos. Chem. Phys., 18, 7131-7148, https://doi.org/10.5194/acp-18-7131-2018, 2018.  
+2. Tian, P., Zhang, L., Ma, J., **Tang, K.**, Xu, L., Wang, Y., Cao, X., Liang, J., Ji, Y., Jiang, J. H., Yung, Y. L., and Zhang, R.: Radiative absorption enhancement of dust mixed with anthropogenic pollution over East Asia, Atmos. Chem. Phys., 18, 7815-7825, https://doi.org/10.5194/acp-18-7815-2018, 2018.  
+

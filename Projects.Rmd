@@ -1,0 +1,11 @@
+---
+title: "Projects"
+output: html_document
+---
+
+```{r, Projects, echo=FALSE, message=FALSE, eval=TRUE, fig.retina = 1}
+require(knitr)
+Chinese_dishes <- list.files(path = './images/Projects', pattern = ".jpg", full.names = TRUE)
+include_graphics(Chinese_dishes)
+
+```
