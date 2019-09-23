@@ -19,18 +19,18 @@ output: html_document
 **GitHub: https://github.com/tangkai666 ** 
    
 ***
-## Eduction  
+## Education  
 * 2019.07 \- now   Ph.D. Candidate  Multiphase Chemistry Department, Max Planck Institute for Chemistry, Mainz, Germany
 * 2016.09 \- 2019.06   M.S.  College of Atmospheric Sciences, Lanzhou University, Lanzhou, China    
 * 2012.09 \- 2016.06   B.S.  College of Atmospheric Sciences, Lanzhou University, Lanzhou, China    
 
 ***  
 ## Training
-* 2018.09 \- 2019.02  A visiting student with the stipend of Max Planck Institute for Chemistry, Mainz, Germany  Adviser: Dr. Janine Fröhlich  
-* 2018.01 \- 2018.02  Short-term training on microbiological experiments in Kanazawa University, Japan  Adviser: Dr. Teruya Maki
-* 2017.12  Short-term training on bioinformatics in Chengdu Institute of Biology, Chinese Academy of Sciences  Adviser: Dr. Xiangzhen Li  
-* 2017.02 \- 2017.03  Short-term training on microbiological experiments in Kanazawa University, Japan  Adviser: Dr. Teruya Maki 
-* 2016.09 \- 2016.12  Short-term training in Institute of Microbiology, School of Life Sciences,Lanzhou University, China  Adviser: Professor Xiangkai Li  
+* 2018.09 \- 2019.02  A visiting student with the stipend of Max Planck Institute for Chemistry, Mainz, Germany
+* 2018.01 \- 2018.02  Short-term training on microbiological experiments in Kanazawa University, Japan
+* 2017.12  Short-term training on bioinformatics in Chengdu Institute of Biology, Chinese Academy of Sciences
+* 2017.02 \- 2017.03  Short-term training on microbiological experiments in Kanazawa University, Japan
+* 2016.09 \- 2016.12  Short-term training in Institute of Microbiology, School of Life Sciences,Lanzhou University, China
     
 ***
 ## Field Campaigns
